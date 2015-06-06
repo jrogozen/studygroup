@@ -17,5 +17,5 @@ Discuss on Jun 4th, 2015 @ 7:00 pm
 
 ###Notes###
 
-7.00
+**7.00**
 Is anyone else worried about how much this instructor is sweating?

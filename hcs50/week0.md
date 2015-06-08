@@ -9,7 +9,7 @@ http://cs50.tv/2014/fall/lectures/0/f/
 ####Shorts####
 https://cs50.harvard.edu/shorts/0
 
-####Prolbem Sets####
+####Problem Sets####
 https://cs50.harvard.edu/psets/0
 
 
